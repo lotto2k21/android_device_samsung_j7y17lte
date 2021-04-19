@@ -16,6 +16,6 @@ $ git clone https://github.com/lotto2k21/android_device_samsung_j7y17lte.git -b 
 $ repo sync --no-repo-verify -c --force-sync --no-clone-bundle --no-tags --optimized-fetch --prune -j8
 
 # Build
-$ mv device/samsung/j7y17lte/build_skyhawk.sh .
+$ mv device/samsung/j7y17lte/build_skyhawk.sh
 $ . build_skyhawk.sh j7y17lte
 ```
