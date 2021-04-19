@@ -3,7 +3,7 @@
 ### How to build ###
 
 ```bash
-# Create dirs
+# Create dir
 $ mkdir shrp ; cd shrp
 
 # Init repo
